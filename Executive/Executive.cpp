@@ -4,7 +4,7 @@
 // ver 2.1                                                                 //
 // ----------------------------------------------------------------------- //
 // Language:    Visual C++, Visual Studio 2010                             //
-// Platform:    Dell XPS 8300, Core i7, Windows 7 SP1                      //
+// Platform:    Lenovo_Z510, Core i5, Windows 8                            //
 // Application: Spring Projects, 2015                                      //
 // Author:      Arunbalaji Sivakumar, MS-CE, Syracuse University           //
 //              (845) 453-5920, asivak01@syr.edu                           //
